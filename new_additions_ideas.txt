@@ -1,0 +1,4 @@
+more functionalities to add:
+    1) pictures of user choice and computer choice besides thier badges
+    2) Round count
+    3) Draw score
